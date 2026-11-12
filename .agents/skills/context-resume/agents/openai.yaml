@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context resume"
+  short_description: "Abre el WT y presenta pendientes para elegir"
+  default_prompt: "Usá $context-resume para verificar el WT y sus pendientes; esperá mi elección antes de continuar."

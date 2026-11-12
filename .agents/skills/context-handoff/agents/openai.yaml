@@ -1,0 +1,6 @@
+interface:
+  display_name: "Context handoff"
+  short_description: "Cierra contexto y prepara el siguiente chat"
+  default_prompt: "Usá $context-handoff para cerrar este chat en un punto estable y preparar su continuación."
+policy:
+  allow_implicit_invocation: false

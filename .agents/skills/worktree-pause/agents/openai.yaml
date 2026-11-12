@@ -1,0 +1,6 @@
+interface:
+  display_name: "Worktree pause"
+  short_description: "Pausa un WT sin perder su estado"
+  default_prompt: "Usá $worktree-pause para pausar este worktree y conservar su estado."
+policy:
+  allow_implicit_invocation: false

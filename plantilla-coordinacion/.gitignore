@@ -1,0 +1,11 @@
+# Configuración y archivos locales
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.log
+*.tmp
+/tmp/
+.DS_Store
+Thumbs.db
+Desktop.ini

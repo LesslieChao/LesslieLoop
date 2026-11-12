@@ -1,0 +1,6 @@
+interface:
+  display_name: "Thread rescue"
+  short_description: "Rescata un chat Codex duplicado o roto"
+  default_prompt: "Usá $thread-rescue para rescatar un thread roto de un WT y continuar desde el duplicado funcional."
+policy:
+  allow_implicit_invocation: false

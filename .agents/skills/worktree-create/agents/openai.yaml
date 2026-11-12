@@ -1,0 +1,6 @@
+interface:
+  display_name: "Worktree create"
+  short_description: "Crea y registra una nueva linea de trabajo"
+  default_prompt: "Usá $worktree-create para crear y registrar un worktree nuevo."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Worktree transfer"
+  short_description: "Entrega commits entre workers y WT separados"
+  default_prompt: "Usá $worktree-transfer para transferir estos cambios al otro worker mediante commits."
+policy:
+  allow_implicit_invocation: false

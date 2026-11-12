@@ -1,0 +1,6 @@
+interface:
+  display_name: "CodeGraph"
+  short_description: "Genera mapa compacto del WT para ahorrar contexto"
+  default_prompt: "Usá $codegraph para generar o actualizar el mapa compacto del WT actual."
+policy:
+  allow_implicit_invocation: false

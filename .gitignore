@@ -1,0 +1,12 @@
+# Archivos locales del propio arnés
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+/.verificacion/
+.codex-worktrees/
+.claude-worktrees/

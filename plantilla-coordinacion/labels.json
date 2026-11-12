@@ -1,0 +1,9 @@
+[
+  {"name":"tipo:encargo","color":"1d76db","description":"Resultado asignado a un worker"},
+  {"name":"tipo:dependencia","color":"5319e7","description":"Contrato o necesidad entre WT"},
+  {"name":"tipo:transferencia","color":"0052cc","description":"Entrega de commits entre workers"},
+  {"name":"tipo:revision","color":"0e8a16","description":"Revisión independiente"},
+  {"name":"tipo:bloqueo","color":"b60205","description":"Requiere una decisión o acción externa"},
+  {"name":"worker:codex","color":"bfd4f2","description":"Comunicación dirigida a Codex"},
+  {"name":"worker:claude","color":"fef2c0","description":"Comunicación dirigida a Claude"}
+]

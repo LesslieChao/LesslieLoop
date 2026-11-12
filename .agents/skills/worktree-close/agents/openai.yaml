@@ -1,0 +1,6 @@
+interface:
+  display_name: "Worktree close"
+  short_description: "Cierra un WT integrado o descartado"
+  default_prompt: "Usá $worktree-close para cerrar definitivamente este worktree sin borrar su Git."
+policy:
+  allow_implicit_invocation: false
